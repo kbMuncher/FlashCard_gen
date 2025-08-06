@@ -81,7 +81,7 @@ This project is a **streamlit-based flashcard generator** that uses a local LLM 
 ## ALWAYS REMEMBER THIS 
 1 seconds = $10^8$ ops 
 so the maximum time given in the question x will determine the maximum operations such as $x*10^8$.
-To further obtain time complexity we calculate operations per test case here it will be $(2*10^8)/10^4$
+To further obtain time complexity we calculate operations per test case here it will be ${2*{10^8}/10^4$
 Since the constraint here are in order of $10^{18}$ we can safely assume that are solution should be in time complexity less than O(n).
 
 ## Longest Divisors Interval
